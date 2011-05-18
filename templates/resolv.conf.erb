@@ -1,0 +1,5 @@
+domain <%= domain_name %>
+<% if search_path != :undef %>search <%= search_path.join(" ") %>
+<% end -%>
+<% name_servers.each do |ns| %>nameserver <%= ns %>
+<% end -%>
