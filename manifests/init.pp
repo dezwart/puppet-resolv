@@ -31,4 +31,4 @@ class resolv( $domain_name = undef,
   }
 }
 
-/* vim: set ts=2 sw=2 sts=2 tw=0 et:*/
+# vim: set ts=2 sw=2 sts=2 tw=0 et:
