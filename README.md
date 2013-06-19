@@ -1,7 +1,7 @@
 Puppet UNIX resolv.conf module
 ==============================
 
-Templated puppet class to allow for the management of resolv.conf on flavours ofr UNIX.
+Templated puppet class to allow for the management of resolv.conf on flavours of UNIX.
 
 Based upon [Puppet Labs - resolv.conf recipe].
 
